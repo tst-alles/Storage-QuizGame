@@ -1,0 +1,86 @@
+{
+  "name": "Pack 1",
+
+  "levels": [
+    {
+      "name": "Level 1",
+      "file": "levels/Pack1/Level1.json"
+    },
+    {
+      "name": "Level 2",
+      "file": "levels/Pack1/Level2.json"
+    },
+    {
+      "name": "Level 3",
+      "file": "levels/Pack1/Level3.json"
+    },
+    {
+      "name": "Level 4",
+      "file": "levels/Pack1/Level4.json"
+    },
+    {
+      "name": "Level 5",
+      "file": "levels/Pack1/Level5.json"
+    },
+    {
+      "name": "Level 6",
+      "file": "levels/Pack1/Level6.json"
+    },
+    {
+      "name": "Level 7",
+      "file": "levels/Pack1/Level7.json"
+    },
+    {
+      "name": "Level 8",
+      "file": "levels/Pack1/Level8.json"
+    },
+    {
+      "name": "Level 9",
+      "file": "levels/Pack1/Level9.json"
+    },
+    {
+      "name": "Level 10",
+      "file": "levels/Pack1/Level10.json"
+    },
+    {
+      "name": "Level 11",
+      "file": "levels/Pack1/Level11.json"
+    },
+    {
+      "name": "Level 12",
+      "file": "levels/Pack1/Level12.json"
+    },
+    {
+      "name": "Level 13",
+      "file": "levels/Pack1/Level13.json"
+    },
+    {
+      "name": "Level 14",
+      "file": "levels/Pack1/Level14.json"
+    },
+    {
+      "name": "Level 15",
+      "file": "levels/Pack1/Level15.json"
+    },
+    {
+      "name": "Level 16",
+      "file": "levels/Pack1/Level16.json"
+    },
+    {
+      "name": "Level 17",
+      "file": "levels/Pack1/Level17.json"
+    },
+    {
+      "name": "Level 18",
+      "file": "levels/Pack1/Level18.json"
+    },
+    {
+      "name": "Level 19",
+      "file": "levels/Pack1/Level19.json"
+    },
+    {
+      "name": "Level 20",
+      "file": "levels/Pack1/Level20.json"
+    }
+  ]
+}
