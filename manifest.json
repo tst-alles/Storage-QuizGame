@@ -3,11 +3,13 @@
 
   "packs": [
     {
+      "id": "gamma",
       "name": "Gamma",
       "levelAmount": 20,
       "levelPath": "levels/Gamma/"
     },
     {
+      "id": "delta",
       "name": "Delta",
       "levelAmount": 20,
       "levelPath": "levels/Delta/"
