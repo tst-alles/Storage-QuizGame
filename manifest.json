@@ -1,18 +1,16 @@
 {
   "version": 1,
 
-  "basePackPath": "packs/",
-  "baseLevelPath": "levels/",
-  "baseImagePath": "images/",
-
   "packs": [
     {
-      "name": "Pack 1",
-      "file": "packs/Pack1.json"
+      "name": "Alpha",
+      "levelAmount": 20,
+      "levelPath": "levels/Alpha/"
     },
     {
-      "name": "Pack 2",
-      "file": "packs/Pack2.json"
+      "name": "Beta",
+      "levelAmount": 20,
+      "levelPath": "levels/Beta/"
     }
   ]
 }
