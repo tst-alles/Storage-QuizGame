@@ -3,14 +3,14 @@
 
   "packs": [
     {
-      "name": "Alpha",
+      "name": "Gamma",
       "levelAmount": 20,
-      "levelPath": "levels/Alpha/"
+      "levelPath": "levels/Gamma/"
     },
     {
-      "name": "Beta",
+      "name": "Delta",
       "levelAmount": 20,
-      "levelPath": "levels/Beta/"
+      "levelPath": "levels/Delta/"
     }
   ]
 }
